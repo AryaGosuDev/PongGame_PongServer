@@ -1,0 +1,5 @@
+C:\Projects\ServerPongEmpty\ServerPongEmpty\bin\Release\ServerPongEmpty.exe
+C:\Projects\ServerPongEmpty\ServerPongEmpty\bin\Release\ServerPongEmpty.pdb
+C:\Projects\ServerPongEmpty\ServerPongEmpty\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Projects\ServerPongEmpty\ServerPongEmpty\obj\x86\Release\ServerPongEmpty.exe
+C:\Projects\ServerPongEmpty\ServerPongEmpty\obj\x86\Release\ServerPongEmpty.pdb

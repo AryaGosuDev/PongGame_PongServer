@@ -1,0 +1,10 @@
+C:\Projects\ServerPongEmpty\ServerPongEmpty\bin\Debug\ServerPongEmpty.exe
+C:\Projects\ServerPongEmpty\ServerPongEmpty\bin\Debug\ServerPongEmpty.pdb
+C:\Projects\ServerPongEmpty\ServerPongEmpty\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\ServerPongEmpty\ServerPongEmpty\obj\x86\Debug\ServerPongEmpty.exe
+C:\Projects\ServerPongEmpty\ServerPongEmpty\obj\x86\Debug\ServerPongEmpty.pdb
+C:\Users\karratdev\Downloads\torrents\ServerPongEmpty\ServerPongEmpty\obj\x86\Debug\ServerPongEmpty.exe
+C:\Users\karratdev\Downloads\torrents\ServerPongEmpty\ServerPongEmpty\obj\x86\Debug\ServerPongEmpty.pdb
+C:\Users\karratdev\Downloads\torrents\ServerPongEmpty\ServerPongEmpty\bin\Debug\ServerPongEmpty.exe
+C:\Users\karratdev\Downloads\torrents\ServerPongEmpty\ServerPongEmpty\bin\Debug\ServerPongEmpty.pdb
+C:\Users\karratdev\Downloads\torrents\ServerPongEmpty\ServerPongEmpty\obj\x86\Debug\ServerPongEmpty.csprojResolveAssemblyReference.cache
